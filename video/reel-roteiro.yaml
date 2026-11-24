@@ -1,9 +1,9 @@
-# reel7etapas — edição 2026-10-17-git-jardim (divulga o guia + vídeo "Git: a história do jardineiro", repo inematds/git-jardineiro)
+# reel7etapas — edição 2026-10-17-git-jardim (divulga o guia + vídeo "Git: a história do jardineiro", repo linnoff88-dev/git-jardineiro)
 tema: "Git explicado como um jardim: mexa no projeto sem medo"
 data: "17/10/2026"
 palavra: GIT
 fala: |
-  Mexeu no projeto e quebrou tudo? Existe um jeito de voltar no tempo. Imagina guardar cada versão do seu trabalho e voltar a qualquer uma, quando quiser. Sem isso, um erro apaga horas, às vezes dias inteiros. E não precisa ser programador: é só pensar num jardim. O nome disso é Git. Cada versão é uma foto do jardim, cada ideia nova ganha o seu canteiro, e no fim você leva tudo para a estufa da equipe, sem ninguém apagar o trabalho do outro. Agora você mexe em tudo sem medo de errar. Tá tudo no inema ponto club. Quer o link? Me pede aqui nos comentários.
+  Mexeu no projeto e quebrou tudo? Existe um jeito de voltar no tempo. Imagina guardar cada versão do seu trabalho e voltar a qualquer uma, quando quiser. Sem isso, um erro apaga horas, às vezes dias inteiros. E não precisa ser programador: é só pensar num jardim. O nome disso é Git. Cada versão é uma foto do jardim, cada ideia nova ganha o seu canteiro, e no fim você leva tudo para a estufa da equipe, sem ninguém apagar o trabalho do outro. Agora você mexe em tudo sem medo de errar. Tá tudo no ARCKHÉ ponto club. Quer o link? Me pede aqui nos comentários.
 etapas:
   - id: gancho
     nome: GANCHO
@@ -71,11 +71,11 @@ etapas:
     cena: "No mesmo jardim florido de dia, o jardineiro de chapéu de palha e avental verde-escuro e uma colega jardineira de uns 35 anos, chapéu de palha e macacão jeans, plantam juntos e riem, na porta de uma estufa de vidro azulada. Dia claro, luz natural neutra, clima leve."
   - id: comentario
     nome: COMENTÁRIO
-    gatilho: "tudo no inema.club ou pedir o link"
+    gatilho: "tudo no ARCKHÉ AI ou pedir o link"
     por_que: "dá o caminho (o guia grátis) e uma ação pequena: pedir o link nos comentários"
-    ancora: inema
+    ancora: ARCKHÉ
     linha1: "TUDO NO"
-    linha2: "INEMA.CLUB"
+    linha2: "ARCKHÉ AI"
     destaque: {titulo: "GRÁTIS", texto: "guia e vídeo\ncompletos"}
     camera: push
     foco: [0.5, 0.5]

@@ -147,7 +147,7 @@ S["9"] = {"shots": [
         {"label": "merge", "sub": "juntar", "at": "junta com merge"},
         {"label": "push", "sub": "compartilhar", "at": "compartilha com push"}]},
     img("09-ciclo.png", "É o ciclo", "de quem programa **e de quem usa IA**", focus=(0.5, 0.6), zoom=(1.08, 1.15)),
-    img("10-guia.png", "O guia completo", "**inema.club** · guia grátis", zoom=(1.0, 1.05)),
+    img("10-guia.png", "O guia completo", "**ARCKHÉ AI** · guia grátis", zoom=(1.0, 1.05)),
 ]}
 
 # conferência das deixas

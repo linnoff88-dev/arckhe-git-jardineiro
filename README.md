@@ -1,4 +1,4 @@
-﻿# Git Ã© um jardim
+# Git Ã© um jardim
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,7 +6,7 @@
 </div>
 
 
-[![Git Ã© um jardim](guia/assets/banner.jpg)](https://inematds.github.io/git-jardineiro/guia/)
+[![Git Ã© um jardim](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
 **ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
 
@@ -16,24 +16,24 @@ Este Ã© um guia grÃ¡tis que explica o Git usando a histÃ³ria de um jardine
 
 ## ðŸ“– Guia de uso
 
-Guia completo (landing + 6 pÃ¡ginas explicativas): **https://inematds.github.io/git-jardineiro/guia/**
+Guia completo (landing + 6 pÃ¡ginas explicativas): **https://linnoff88-dev.github.io/
 
 ## ðŸŽ¬ VÃ­deos
 
-- Explicativo 16:9 (3 min): https://github.com/inematds/git-jardineiro/releases/download/video-v1.0.0/git-jardineiro-16x9.mp4
-- Reel 9:16 (31 s): https://github.com/inematds/git-jardineiro/releases/download/video-v1.0.0/git-jardineiro-reel.mp4
-- Players no guia: https://inematds.github.io/git-jardineiro/guia/#video
+- Explicativo 16:9 (3 min): https://github.com/linnoff88-dev/git-jardineiro/releases/download/video-v1.0.0/git-jardineiro-16x9.mp4
+- Reel 9:16 (31 s): https://github.com/linnoff88-dev/git-jardineiro/releases/download/video-v1.0.0/git-jardineiro-reel.mp4
+- Players no guia: https://linnoff88-dev.github.io/
 
 O roteiro e o roteiro visual estÃ£o em `video/`.
 
 ## Os 6 passos
 
-1. **Clone** â€” Trazer o jardim pra casa: O clone copia o projeto e toda a histÃ³ria dele para o seu computador. (https://inematds.github.io/git-jardineiro/guia/clone/)
-2. **Commit** â€” Tirar a foto do jardim: Edite, escolha o que entra e tire a foto. O commit salva no seu computador. (https://inematds.github.io/git-jardineiro/guia/commit/)
-3. **Branch** â€” Testar uma ideia nova: Branch Ã© uma etiqueta que anda junto com os seus commits novos. (https://inematds.github.io/git-jardineiro/guia/branch/)
-4. **Worktree** â€” Dois canteiros ao mesmo tempo: Worktree Ã© outra pasta do mesmo projeto, aberta em outra branch. (https://inematds.github.io/git-jardineiro/guia/worktree/)
-5. **Merge** â€” Juntar as mudanÃ§as: Merge junta duas histÃ³rias num commit novo. (https://inematds.github.io/git-jardineiro/guia/merge/)
-6. **Push** â€” Compartilhar com a equipe: Push leva os seus commits para o remoto. Agora a equipe pode pegar. (https://inematds.github.io/git-jardineiro/guia/push/)
+1. **Clone** â€” Trazer o jardim pra casa: O clone copia o projeto e toda a histÃ³ria dele para o seu computador. (https://linnoff88-dev.github.io/
+2. **Commit** â€” Tirar a foto do jardim: Edite, escolha o que entra e tire a foto. O commit salva no seu computador. (https://linnoff88-dev.github.io/
+3. **Branch** â€” Testar uma ideia nova: Branch Ã© uma etiqueta que anda junto com os seus commits novos. (https://linnoff88-dev.github.io/
+4. **Worktree** â€” Dois canteiros ao mesmo tempo: Worktree Ã© outra pasta do mesmo projeto, aberta em outra branch. (https://linnoff88-dev.github.io/
+5. **Merge** â€” Juntar as mudanÃ§as: Merge junta duas histÃ³rias num commit novo. (https://linnoff88-dev.github.io/
+6. **Push** â€” Compartilhar com a equipe: Push leva os seus commits para o remoto. Agora a equipe pode pegar. (https://linnoff88-dev.github.io/
 
 | | |
 |---|---|
@@ -52,7 +52,7 @@ O roteiro e o roteiro visual estÃ£o em `video/`.
 
 O texto mora em `src/<idioma>.json`; o HTML sai de `python3 src/build.py`.
 
-Projetos e cursos gratuitos: https://inema.club
+Projetos e cursos gratuitos: https://ARCKHÉ AI
 
 ---
 

@@ -2,7 +2,7 @@
   "lang": "pt-BR",
   "title": "Git é um jardim",
   "tagline": "a história do jardineiro",
-  "meta": "Git explicado como um jardim: clone, commit, branch, worktree, merge e push com desenhos, comandos e um vídeo. Grátis, do INEMA.CLUB.",
+  "meta": "Git explicado como um jardim: clone, commit, branch, worktree, merge e push com desenhos, comandos e um vídeo. Grátis, do ARCKHÉ AI.",
   "nav": {"oque": "O que é", "passos": "Os 6 passos", "video": "Vídeo", "cola": "Cola", "github": "GitHub", "tema": "Alternar tema", "voltar": "← Guia"},
   "hero": {
     "chip": "Git sem medo · em 6 passos",

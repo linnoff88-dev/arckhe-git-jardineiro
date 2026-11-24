@@ -9,8 +9,8 @@ import html, json, pathlib
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 SRC = RAIZ / "src"
 SLUG = "git-jardineiro"
-REPO = f"https://github.com/inematds/{SLUG}"
-SITE = f"https://inematds.github.io/{SLUG}/guia/"
+REPO = f"https://github.com/linnoff88-dev/{SLUG}"
+SITE = f"https://linnoff88-dev.github.io/
 LANGS = ["pt", "en", "es"]
 CSS = (SRC / "base.css.html").read_text()
 EXTRA_CSS = """<style>
@@ -147,9 +147,9 @@ def pagina(d, lang, sub, corpo, titulo, desc, secoes):
   <a class="brand" href="{home or './'}"><span class="emoji">🌱</span> {esc(d['title'])}</a>
   <span class="sep">|</span>
   <span class="clubpro">
-    <a class="inema" href="https://inema.club" target="_blank" rel="noopener">INEMA.CLUB</a>
+    <a class="ARCKHÉ" href="https://ARCKHÉ AI" target="_blank" rel="noopener">ARCKHÉ AI</a>
     <span class="sep">-</span>
-    <a class="pro" href="https://inema.pro" target="_blank" rel="noopener">PRO</a>
+    <a class="pro" href="https://ARCKHÉ.pro" target="_blank" rel="noopener">PRO</a>
   </span>
   <div class="links">
     {links}
@@ -163,8 +163,8 @@ def pagina(d, lang, sub, corpo, titulo, desc, secoes):
   <div class="wrap">
     {"".join(f'<div class="pill">{esc(s)}</div>' for s in d['footer']['stack'])}
     <p style="margin-top:18px">{esc(d['title'])} · {esc(d['footer']['nota'])} ·
-      <a href="{REPO}">inematds/{SLUG}</a> ·
-      <a href="https://inema.club">INEMA.CLUB</a></p>
+      <a href="{REPO}">linnoff88-dev/{SLUG}</a> ·
+      <a href="https://ARCKHÉ AI">ARCKHÉ AI</a></p>
   </div>
 </footer>
 <script>
