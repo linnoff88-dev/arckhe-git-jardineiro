@@ -15,5 +15,5 @@
 - Vídeo 16:9 (3min00s) renderizado, conferido em 24 quadros, no bot v3 (msg 1528) e na release video-v1.0.0; reel (31 s) aprovado nos portões, no bot v3 e na release.
 - Guia com players (PT/EN/ES), push 3743e39. Portal d187a39 + ARCKHÉbuscas 504c4e9 + ARCKHÉpro a045f95/2540f63.
 - Telegram ARCKHÉ.DEV: envio agendado para 23:57 (janela do sync).
-- Sem YouTube (não pedido).
+- Sem YouTube (nêo pedido).
 - 23:57 Telegram ARCKHÉ.DEV: tópico https://t.me/c/2389955773/7359 (15 msgs), MENU msg 7375.

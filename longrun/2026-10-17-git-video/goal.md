@@ -1,7 +1,7 @@
 # Goal — git-video
 
 - **Início:** 2026-10-17 · **Agente:** Claude Code
-- **Tetos:** render/transcrição com `systemd-run --user --scope -p MemoryMax=16G -p MemorySwapMax=0`
+- **Tetos:** render/transcriçêo com `systemd-run --user --scope -p MemoryMax=16G -p MemorySwapMax=0`
 
 ## Resultado
 Repo `linnoff88-dev/git-jardineiro` com guia PT/EN/ES (Git explicado como um jardim) + player do vídeo; explicavideo v2 PT
@@ -10,8 +10,8 @@ publicados no portal e no Telegram ARCKHÉ.DEV.
 
 ## Critérios de pronto (verificáveis)
 
-**Função**
-- [ ] `ls ~/projetos/output/explica-git-jardineiro/v2/final/*-pt.mp4` → existe; `ffprobe` duração 240–420 s
+**Funçêo**
+- [ ] `ls ~/projetos/output/explica-git-jardineiro/v2/final/*-pt.mp4` → existe; `ffprobe` duraçêo 240–420 s
 - [ ] `build_block.py N --strict` em cada bloco → 0 warnings; `hyperframes check` sem `content_overlap`
 - [ ] frame 0 (`ffmpeg -frames:v 1`) mostra a capa do ganho com texto legível (conferido em recorte 3×)
 - [ ] `ls ~/projetos/reel7etapas/edicoes/*git-jardim*/build/video.mp4` → existe; `reel7etapas.py validar` → aprovado
@@ -19,7 +19,7 @@ publicados no portal e no Telegram ARCKHÉ.DEV.
 - [ ] portal: `grep -n git-jardineiro ~/projetos/portal/src/data/*.ts` → card do projeto + vídeo; push no origin
 - [ ] Telegram ARCKHÉ.DEV: id do tópico gravado em `progress.md` + entrada no MENU
 
-**Regressão**
+**Regressêo**
 - [ ] guia: `scrollWidth - innerWidth` = 0 de 390 a 1920 px, servido por HTTP; todas as imagens `naturalWidth > 0` em PT/EN/ES
 
 **Limite**
@@ -28,4 +28,4 @@ publicados no portal e no Telegram ARCKHÉ.DEV.
 - [ ] imagens sem texto desenhado, exceto capa/hero (texto conferido)
 
 **Teste rápido por ciclo:** `ferramentas/validar_visual.py` + `build_block.py --strict`
-**Teste completo no final:** folha de 11 quadros do 16:9 + folhas do r7e + medição do guia
+**Teste completo no final:** folha de 11 quadros do 16:9 + folhas do r7e + mediçêo do guia

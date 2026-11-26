@@ -33,7 +33,7 @@ def node(i, label, col, row, at, icon=None):
 S = {}
 S["1"] = {"header": False, "shots": [
     {"type": "hook", "at": "@start", "text": "Git explicado como um **jardim**", "src": M + "01-capa-hook.png"},
-    {"type": "keyword", "at": "Esses seis comandos", "text": "6 comandos", "sub": "o **coração** do Git", "sub_at": "coração do Git"},
+    {"type": "keyword", "at": "Esses seis comandos", "text": "6 comandos", "sub": "o **coraçêo** do Git", "sub_at": "coraçêo do Git"},
     img("02-dicionario.png", "pensar num jardim", "o Git é um **jardim**"),
     {"type": "timeline", "at": "Neste vídeo eu explico", "events": [
         {"label": "Clone", "sub": "trazer pra casa", "at": "trazer o jardim"},
@@ -47,7 +47,7 @@ S["1"] = {"header": False, "shots": [
 S["2"] = {"shots": [
     {"type": "fields", "at": "Primeiro, o dicionário", "title": "Dicionário do jardineiro", "fields": [
         {"label": "Jardim", "value": "projeto", "at": "O jardim é"},
-        {"label": "Plantas", "value": "arquivos", "at": "As plantas são"},
+        {"label": "Plantas", "value": "arquivos", "at": "As plantas sêo"},
         {"label": "Foto", "value": "commit", "at": "Cada commit é"},
         {"label": "Etiqueta", "value": "branch", "at": "A branch é"},
         {"label": "Estufa", "value": "remoto (GitHub)", "at": "tem uma estufa"}]},
@@ -78,7 +78,7 @@ S["4"] = {"shots": [
         {"type": "cmd", "text": "git status", "at": "O git status"},
         {"type": "cmd", "text": "git add .", "at": "o que mudou"},
         {"type": "cmd", "text": "git commit -m \"Adiciona o caminho\"", "at": "a qualquer momento"}]},
-    {"type": "statement", "at": "E atenção", "text": "Commit **não envia** nada", "then": {"text": "salva **só no seu computador**", "at": "salva só no"}},
+    {"type": "statement", "at": "E atençêo", "text": "Commit **nêo envia** nada", "then": {"text": "salva **só no seu computador**", "at": "salva só no"}},
 ]}
 S["5"] = {"shots": [
     img("05-branch.png", "Passo três", "**3 · Branch**"),
@@ -93,7 +93,7 @@ S["5"] = {"shots": [
         node("E", "E · flores", 3, 2, "andar junto")],
      "edges": [{"from": "A", "to": "B", "at": "Cada foto nova"}, {"from": "B", "to": "D", "at": "faz a etiqueta"},
                {"from": "D", "to": "E", "at": "andar junto"}]},
-    img("05-branch.png", "Se a ideia", "não deu certo? **é só voltar**", focus=(0.5, 0.6), zoom=(1.05, 1.12)),
+    img("05-branch.png", "Se a ideia", "nêo deu certo? **é só voltar**", focus=(0.5, 0.6), zoom=(1.05, 1.12)),
 ]}
 S["6"] = {"shots": [
     img("06-worktree.png", "Passo quatro", "**4 · Worktree**"),
@@ -160,7 +160,7 @@ for k, sc in S.items():
                 return
             c, _, n = v.partition("#")
             if norm(c) not in fala:
-                erros.append(f"cena {k}: deixa '{v}' não está na fala")
+                erros.append(f"cena {k}: deixa '{v}' nêo está na fala")
         def anda(o):
             if isinstance(o, dict):
                 for kk, vv in o.items():

@@ -14,8 +14,8 @@
      "type": "keyword",
      "at": "Esses seis comandos",
      "text": "6 comandos",
-     "sub": "o **coração** do Git",
-     "sub_at": "coração do Git"
+     "sub": "o **coraçêo** do Git",
+     "sub_at": "coraçêo do Git"
     },
     {
      "type": "media",
@@ -84,7 +84,7 @@
      "calm": true
     }
    ],
-   "takeaway": "Seis comandos guardam cada versão do seu projeto."
+   "takeaway": "Seis comandos guardam cada versêo do seu projeto."
   },
   "2": {
    "shots": [
@@ -101,7 +101,7 @@
       {
        "label": "Plantas",
        "value": "arquivos",
-       "at": "As plantas são"
+       "at": "As plantas sêo"
       },
       {
        "label": "Foto",
@@ -355,15 +355,15 @@
     },
     {
      "type": "statement",
-     "at": "E atenção",
-     "text": "Commit **não envia** nada",
+     "at": "E atençêo",
+     "text": "Commit **nêo envia** nada",
      "then": {
       "text": "salva **só no seu computador**",
       "at": "salva só no"
      }
     }
    ],
-   "takeaway": "Edite, separe o que entra e tire a foto. Commit não envia nada."
+   "takeaway": "Edite, separe o que entra e tire a foto. Commit nêo envia nada."
   },
   "5": {
    "shots": [
@@ -485,7 +485,7 @@
       1.05,
       1.12
      ],
-     "label": "não deu certo? **é só voltar**",
+     "label": "nêo deu certo? **é só voltar**",
      "calm": true
     }
    ],

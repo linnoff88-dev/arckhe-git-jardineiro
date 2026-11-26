@@ -4,9 +4,9 @@
   "title": "Nunca mais perca o seu trabalho",
   "kind": "statement",
   "labels": ["clone", "commit", "branch", "worktree", "merge"],
-  "takeaway": "Seis comandos guardam cada versão do seu projeto.",
+  "takeaway": "Seis comandos guardam cada versêo do seu projeto.",
   "source": "proprio",
-  "speech": "Com seis comandos você nunca mais perde um dia de trabalho, nem tem medo de mexer no seu projeto. Esses seis comandos são o coração do Git. E o jeito mais fácil de entender o Git é pensar num jardim. Neste vídeo eu explico, passo a passo, como trazer o jardim pra casa, tirar a foto do jardim, testar uma ideia nova, trabalhar em dois canteiros ao mesmo tempo, juntar tudo e compartilhar com a equipe. E no fim eu mostro o ciclo completo num desenho só.",
+  "speech": "Com seis comandos você nunca mais perde um dia de trabalho, nem tem medo de mexer no seu projeto. Esses seis comandos sêo o coraçêo do Git. E o jeito mais fácil de entender o Git é pensar num jardim. Neste vídeo eu explico, passo a passo, como trazer o jardim pra casa, tirar a foto do jardim, testar uma ideia nova, trabalhar em dois canteiros ao mesmo tempo, juntar tudo e compartilhar com a equipe. E no fim eu mostro o ciclo completo num desenho só.",
   "svg": null
  },
  {
@@ -16,7 +16,7 @@
   "labels": ["jardim = projeto", "plantas = arquivos", "foto = commit", "etiqueta = branch", "estufa = remoto"],
   "takeaway": "Projeto é o jardim; commit é a foto do jardim inteiro.",
   "source": "proprio",
-  "speech": "Primeiro, o dicionário do jardineiro. O jardim é o seu projeto. As plantas são os arquivos. Cada commit é uma foto do jardim inteiro, guardada com data e uma frase. A branch é uma etiqueta que aponta para uma dessas fotos. E lá longe tem uma estufa, que é o repositório remoto, onde fica a cópia que a equipe toda compartilha, por exemplo no GitHub.",
+  "speech": "Primeiro, o dicionário do jardineiro. O jardim é o seu projeto. As plantas sêo os arquivos. Cada commit é uma foto do jardim inteiro, guardada com data e uma frase. A branch é uma etiqueta que aponta para uma dessas fotos. E lá longe tem uma estufa, que é o repositório remoto, onde fica a cópia que a equipe toda compartilha, por exemplo no GitHub.",
   "svg": null
  },
  {
@@ -26,7 +26,7 @@
   "labels": ["estufa (remoto)", "git clone", "seu computador", "pasta de trabalho"],
   "takeaway": "Clone copia o projeto e toda a história para o seu computador.",
   "source": "proprio",
-  "speech": "Passo um, o clone. Você vai até a estufa e traz o jardim pra casa. O comando git clone copia o projeto inteiro e também toda a história dele, cada foto que já foi tirada. No seu computador aparece uma pasta com os arquivos prontos pra editar. Repare: você não mexe na estufa. Você mexe na sua cópia, com calma.",
+  "speech": "Passo um, o clone. Você vai até a estufa e traz o jardim pra casa. O comando git clone copia o projeto inteiro e também toda a história dele, cada foto que já foi tirada. No seu computador aparece uma pasta com os arquivos prontos pra editar. Repare: você nêo mexe na estufa. Você mexe na sua cópia, com calma.",
   "svg": null
  },
  {
@@ -34,9 +34,9 @@
   "title": "Commit: a foto do jardim",
   "kind": "pipeline",
   "labels": ["editar", "git add", "área de preparo", "git commit", "história local"],
-  "takeaway": "Edite, separe o que entra e tire a foto. Commit não envia nada.",
+  "takeaway": "Edite, separe o que entra e tire a foto. Commit nêo envia nada.",
   "source": "proprio",
-  "speech": "Passo dois, o commit. Você planta, arranca, faz um caminho de pedras. Isso é editar os arquivos. Depois você escolhe o que vai entrar na foto, com git add. Essas mudanças ficam numa bandeja, a área de preparo. Aí o git commit tira a foto e guarda no seu histórico, com uma frase, por exemplo, adicionei o caminho. O git status mostra o que mudou a qualquer momento. E atenção: o commit não envia nada pra ninguém. Ele salva só no seu computador.",
+  "speech": "Passo dois, o commit. Você planta, arranca, faz um caminho de pedras. Isso é editar os arquivos. Depois você escolhe o que vai entrar na foto, com git add. Essas mudanças ficam numa bandeja, a área de preparo. Aí o git commit tira a foto e guarda no seu histórico, com uma frase, por exemplo, adicionei o caminho. O git status mostra o que mudou a qualquer momento. E atençêo: o commit nêo envia nada pra ninguém. Ele salva só no seu computador.",
   "svg": null
  },
  {
@@ -46,7 +46,7 @@
   "labels": ["main", "git switch -c flores", "commit D", "commit E"],
   "takeaway": "Branch é uma etiqueta que anda com os seus commits novos.",
   "source": "proprio",
-  "speech": "Passo três, a branch. Bateu uma ideia: e se eu fizer um canteiro de flores? Você não precisa arriscar o jardim principal. Com git switch traço c flores, você cria uma etiqueta nova chamada flores e passa a trabalhar nela. Cada foto nova faz a etiqueta andar junto. A main continua parada onde estava. Se a ideia não der certo, é só voltar.",
+  "speech": "Passo três, a branch. Bateu uma ideia: e se eu fizer um canteiro de flores? Você nêo precisa arriscar o jardim principal. Com git switch traço c flores, você cria uma etiqueta nova chamada flores e passa a trabalhar nela. Cada foto nova faz a etiqueta andar junto. A main continua parada onde estava. Se a ideia nêo der certo, é só voltar.",
   "svg": null
  },
  {
